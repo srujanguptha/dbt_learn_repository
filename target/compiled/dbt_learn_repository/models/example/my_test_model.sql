@@ -1,3 +1,3 @@
-{{ config(schema='PUBLIC') }}
+
 
 select 'hello from VS code' as message
